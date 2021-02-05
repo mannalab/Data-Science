@@ -61,24 +61,48 @@ _MAC_|`pip install numpy pandas matplotlib scipy scikit-learn tensorflow keras`
 
 * [Configuração](https://gist.github.com/diego3g/b1b189063d21b96d6144ca896755be64) proposta por [_Diego Fernandes_](https://gist.github.com/diego3g).
 
-### Extensões
+### Extensões indicadas
 
-* _Auto Rename Tag_
-* _Bookmarks_
-* _Bracket Pair Colorizer 2_
-* _Brazilian Portuguese - Code Spell Checker_
-* _Code Spell Checker_
-* _Color Highlight_
-* _Dracula Official_
-* _EditorConfig for VS Code_
-* _GitLens_
-* _Jupyter_
-* _Live Share_
-* _Markdown Preview Enhanced_
-* _Material Icon Theme_
-* _Python_
-* _REST Client_
-* _Settings Sync_
-* _Tabnine Autocomplete AI_
+* _Auto Rename Tag_: para trabalhar com _tags_, do tipo: `<p>`;
+* _Bookmarks_: para favoritar uma linha de código;
+* _Bracket Pair Colorizer 2_: colore os pares de '{}';
+* _Brazilian Portuguese - Code Spell Checker_: língua portuguesa para verificador de ortografia;
+* _Code Spell Checker_: verificador de ortografia;
+* _Color Highlight_: colore códigos de cores nas cores indicadas;
+* _Dracula Official_: tema de cores maneiro para a _IDE_, desenvolvido por [_Zeno Rocha_](https://draculatheme.com/);
+* _EditorConfig for VS Code_: para criar arquivos '.editorconfig', a fim de padronizar as configurações do editor de texto;
+* _GitLens_: permite maior integração com _GitHub_;
+* _Jupyter_: permite utilizar ambiente _Jupyter_ direto na _IDE_;
+* _Live Share_: para codar em conjunto;
+* _Markdown Preview Enhanced_: para visualizar _MarkDowns_ na _IDE_;
+* _Material Icon Theme_: tema de ícones maneiro;
+* _Python_: para compilar de debugar _Python_;
+* _REST Client_: para criar requisições pela _IDE_;
+* _Settings Sync_: para salvar na núvem as configurações e extensões;
+* _Tabnine Autocomplete AI_: para sugestões de escrita inteligentes.
 
-## _Google Colab_
+## _Jupyter_
+
+* Diferenças quanto a _IDE_.
+
+### Instalação de _Jupyter_ local
+
+Sistema | Instalação
+--------|-----------
+_Windows_|`pip install jupyterlab`
+_Linux_|`pip3 install jupyterlab`
+_MAC_|`pip install jupyterlab`
+
+### Execução
+
+`jupyter-lab`
+
+### _Google Colab_
+
+* Uso de _GPU_ e _TPU_ gratuitos;
+* Uso de comandos _Unix_ (_Linux_).
+
+### _Kaggle_
+
+* Plataforma;
+* Desafios.

@@ -99,10 +99,13 @@ _MAC_|`pip install jupyterlab`
 
 ### _Google Colab_
 
+* [_Link_](https://colab.research.google.com/);
+* Integração com _Google Drive_;
 * Uso de _GPU_ e _TPU_ gratuitos;
 * Uso de comandos _Unix_ (_Linux_).
 
 ### _Kaggle_
 
+* [_Link_](https://www.kaggle.com/);
 * Plataforma;
 * Desafios.

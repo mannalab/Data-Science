@@ -83,6 +83,7 @@ _MAC_|`pip install numpy pandas matplotlib scipy scikit-learn tensorflow keras`
 
 ## _Jupyter_
 
+* [_Link_](https://jupyter.org/);
 * Diferenças quanto a _IDE_.
 
 ### Instalação de _Jupyter_ local

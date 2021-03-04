@@ -4,7 +4,7 @@ Neste repositório você será guiado para aprender aprendizagem de máquina.
 
 ## Configuração de ambiente
 
-* [Como configurar seu ambiente para programar _online_ ou _offline_](https://github.com/mannalab/MachineLearning/tree/main/Ambiente%20de%20trabalho)
+* [Como configurar seu ambiente para programar _online_ ou _offline_](https://github.com/mannalab/MachineLearning/blob/main/Ambiente%20de%20trabalho/Ambiente.md)
 
 ## Bibliotecas cientificas
 

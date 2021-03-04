@@ -6,6 +6,10 @@ Neste repositório você será guiado para aprender aprendizagem de máquina.
 
 * [Como configurar seu ambiente para programar _online_ ou _offline_](https://github.com/mannalab/MachineLearning/tree/main/Ambiente%20de%20trabalho)
 
+## Bibliotecas cientificas
+
+* [Curso de _Numpy, Pandas e MatPlotLib_ - _IEEE UEM_](https://colab.research.google.com/drive/1NaddyWAeJwOo0iFFbLYL2u64J9PD9dRJ?usp=sharing)
+
 ## Regressão
 
 ### Desafio _Kaggle_

@@ -1,6 +1,6 @@
 # Aprendizado de Máquina - _Manna Team_
 
-Neste repositório você será guiado para aprender aprendizagem de máquina.
+Neste repositório você será guiado para aprender aprendizagem de máquina voltada a ciência dos dados.
 
 ## Configuração de ambiente
 

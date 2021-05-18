@@ -16,9 +16,27 @@ Professora Linnyer Ruiz (orientadora)
 
 ---
 
-## Bibliotecas científicas
+## Python e Bibliotecas científicas
 
 * [Curso de _Numpy, Pandas e MatPlotLib_ - _IEEE UEM_](https://colab.research.google.com/drive/1NaddyWAeJwOo0iFFbLYL2u64J9PD9dRJ?usp=sharing)
+
+---
+
+## Análise de dados
+
+### Mineração de dados (to do)
+
+---
+
+### Manipulação de dados (to do)
+
+---
+
+### Exploração e visualização de dados (to do)
+
+---
+
+### _Data Storytelling_ (to do)
 
 ---
 

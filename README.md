@@ -1,6 +1,6 @@
-# Aprendizado de Máquina - _Manna Team_
+# _Data science_ - _Manna Team_
 
-Neste repositório você será guiado para aprender aprendizagem de máquina voltada a ciência dos dados.
+Neste repositório você será guiado para aprender ciência dos dados.
 
 ---
 
@@ -22,23 +22,35 @@ Professora Linnyer Ruiz (orientadora)
 
 ---
 
-## Regressão
+## _Machine Learning_
 
-### Desafio _Kaggle_
+### Regressão
+
+#### Desafio _Kaggle_
 
 [Predição de preços de casas](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
-#### Projeto de estudo
+##### Projeto de estudo
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EOKP1UJ1ZAVzjUIaUP6t61dE84sJj3nO?usp=sharing)
 
-#### Resolução do desafio
+##### Resolução
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nKsflZwXqhKX0FZZmXehTwROWCG-qRoL?usp=sharing)
 
 [Open in Kaggle](https://www.kaggle.com/leonichel/competi-o-kaggle-house-prices)
 
-## Classificação
+### Classificação
+
+#### Desafio _Kaggle_
+
+[Predição de qualidade de vinhos](https://www.kaggle.com/rajyellow46/wine-quality)
+
+##### Resolução
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nKsflZwXqhKX0FZZmXehTwROWCG-qRoL?usp=sharing)
+
+[Open in Kaggle](https://colab.research.google.com/drive/1AcaArOrR-e1XQl4N8jUDXBR8ZRt3sSmP?usp=sharing)
 
 ---
 

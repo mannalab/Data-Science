@@ -44,15 +44,13 @@ Professora Linnyer Ruiz (orientadora)
 
 ### Regressão
 
-#### Desafio _Kaggle_
+#### Desafio _Kaggle_: [Predição de preços de casas](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
-[Predição de preços de casas](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
-
-##### Projeto de estudo
+* Projeto de estudo
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EOKP1UJ1ZAVzjUIaUP6t61dE84sJj3nO?usp=sharing)
 
-##### Resolução
+* Resolução
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nKsflZwXqhKX0FZZmXehTwROWCG-qRoL?usp=sharing)
 
@@ -62,11 +60,9 @@ Professora Linnyer Ruiz (orientadora)
 
 ### Classificação
 
-#### Desafio _Kaggle_
+#### Desafio _Kaggle_: [Predição de qualidade de vinhos](https://www.kaggle.com/rajyellow46/wine-quality)
 
-[Predição de qualidade de vinhos](https://www.kaggle.com/rajyellow46/wine-quality)
-
-##### Resolução
+* Resolução
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nKsflZwXqhKX0FZZmXehTwROWCG-qRoL?usp=sharing)
 

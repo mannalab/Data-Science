@@ -40,6 +40,8 @@ Professora Linnyer Ruiz (orientadora)
 
 [Open in Kaggle](https://www.kaggle.com/leonichel/competi-o-kaggle-house-prices)
 
+---
+
 ### Classificação
 
 #### Desafio _Kaggle_
